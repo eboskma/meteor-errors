@@ -1,0 +1,9 @@
+{
+  "name": "errors",
+  "description": "A pattern to display application errors to the user",
+  "homepage": "https://github.com/eboskma/meteor-errors",
+  "author": "Erwin Boskma <erwin@datarift.nl>",
+  "version": "0.0.1",
+  "git": "https://github.com/eboskma/meteor-errors.git",
+  "packages": {}
+}
