@@ -8,7 +8,7 @@ Errors = {
     });
   },
   
-  clear_seen: function() {
+  clearSeen: function() {
     return Errors.collection.remove({
       seen: true
     });
